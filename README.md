@@ -5,6 +5,7 @@ This repository aims to provide a library of open-source models for computer-aid
 - #### Image Size: 224x224x3
 - #### Class Mode: Categorical
 - #### Interpolation: Bicubic
+- #### External Validation: ✅
 ## Collaborating Universities and Research Centers
 - University of Computer Sciences, Havana, Cuba (UCI)
 - Centre for Medical Informatics (CESIM)
