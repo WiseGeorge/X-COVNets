@@ -8,9 +8,10 @@ This repository aims to provide a library of open-source models for computer-aid
 - #### External Validation: ✅
 ## Collaborating Universities and Research Centers
 - University of Computer Sciences, Havana, Cuba (UCI)
-- Centre for Medical Informatics (CESIM)
-- Centre for the Study of Computational Mathematics (CEMC).
+- Center for Medical Informatics (CESIM)
+- Center for Computational Mathematics Studies (CEMC).
 ## Authors
 - Jorge Félix Martínez Pazos
 - Arturo Orellana García
+- Jorge Gulín Gonzáles
 - David Batard Lorenzo
